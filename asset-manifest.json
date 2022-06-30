@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw-react-events-states-2/static/css/main.0a2dca77.css",
+    "main.js": "/hw-react-events-states-2/static/js/main.98b3675e.js",
+    "static/js/787.b16b5c59.chunk.js": "/hw-react-events-states-2/static/js/787.b16b5c59.chunk.js",
+    "index.html": "/hw-react-events-states-2/index.html",
+    "main.0a2dca77.css.map": "/hw-react-events-states-2/static/css/main.0a2dca77.css.map",
+    "main.98b3675e.js.map": "/hw-react-events-states-2/static/js/main.98b3675e.js.map",
+    "787.b16b5c59.chunk.js.map": "/hw-react-events-states-2/static/js/787.b16b5c59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2dca77.css",
+    "static/js/main.98b3675e.js"
+  ]
+}
