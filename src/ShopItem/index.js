@@ -7,7 +7,7 @@ export default function ShopItem (props) {
 
   return (
     <div className="shopItem">
-      <img src={item.img}/>
+      <img src={item.img} alt ="item"/>
       <h2 className="cardName">{item.name}</h2>
       <p className="cardColor">{item.color}</p>
         <span className="cardPrice">${item.price}</span>
